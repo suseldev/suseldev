@@ -1,4 +1,4 @@
-# 👋 Hi, I’m xxSusel
+# 👋 Hi!
 - 🖥️ I'm interested in **DevOps**, **Full-stack development**, **cybersecurity** and **networking**.
 - 🛠️ Currently working on **[Flitify](https://github.com/suseldev/flitify)**: Secure computer management system (Python) with encrypted protocol, multi-threaded architecture, and web dashboard.
 
